@@ -19,5 +19,8 @@
   "homepage": "https://github.com/swe-assignments/scooter-project#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
